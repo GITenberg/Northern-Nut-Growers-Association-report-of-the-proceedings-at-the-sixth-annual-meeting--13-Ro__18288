@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9596'
     url: http://www.gutenberg.org/2009/agents/9596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18288#Northern-Nut-Growers-Association-report-of-the-proceedings-at-the-sixth-annual-meeting--13-Ro_
 gutenberg_bookshelf: Northern Nut Growers Association
 gutenberg_issued: '2006-04-30'
 gutenberg_type: Text
